@@ -25,11 +25,11 @@ Para executar os códigos deste repositório, você precisará de:
 ## 🚀 Como Usar
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/JoaoVictorCore/java-basico.git
+   git clone https://github.com/JoaoVictorCore/dio-java-basico.git
    ```
 2. Acesse a pasta do projeto:
    ```sh
-   cd java-basico
+   cd dio-java-basico
    ```
 3. Abra o projeto na sua IDE favorita e execute os arquivos `.java`.
 
